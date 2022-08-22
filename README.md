@@ -8,3 +8,4 @@ Mechanism - We will work as a team and Join us our social media pages e.g. teleg
 Stake - After public sale, staking will be start in 3rd to 5th week +/-. Our all holders will be get more benefits if they will hold
 Our Plan - It is not only a cryptocurrency token/payment, Our team are working on the wallet & games. Meanwhile are working on NFT & meta verse.
 Charity - We already transferred charity token to charity address for support the poor family.
+Developed Polygon Smart Contract for make easily buy and selling of Polygon User
